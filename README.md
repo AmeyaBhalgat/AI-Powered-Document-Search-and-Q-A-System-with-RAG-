@@ -1,13 +1,10 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Use Cases](#use-cases)
 - [Installation](#installation)
 - [Vector Stores](#VectorStores)
 - [Usage](#usage)
 - [LangSmith](#LangSmith)
-- [Contributing](#Contributing)
-- [Contact](#Contact)
 
 ## Introduction
 Retrieval-Augmented Generation (RAG) merges the advantages of retrieval-based and generation-based models to enhance the accuracy and relevance of the responses produced. This project incorporates LangChain and LangSmith to develop a robust RAG system that can manage intricate queries and provide detailed, context-aware answers.
